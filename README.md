@@ -44,15 +44,15 @@
 - Developed an iOS app for dementia patients with adaptive cognitive exercises.
 - Built with React Native, FastAPI, SQL, Supabase.
 
-### 📍 [UW Campus Paths (Full-Stack Web App)](https://github.com/rissingh23/uw-campus-paths)
+### 📍 [UW Campus Paths (Full-Stack Web App)](https://github.com/rissingh23/uw-campus-pathfinder-friend-locator)
 - Real-time campus navigation and friend locator web app.
 - Built with React, TypeScript; Dijkstra’s algorithm for shortest paths.
 
-### 📈 [Stock Analysis Assistant (Full-Stack Web App)](https://github.com/rissingh23/AI-Financial-Assistant)
+### 📈 [Stock Analysis Assistant (Full-Stack Web App)](https://github.com/rissingh23/AI-Financial-Assistant-visual-text)
 - AI-powered assistant for stock data insights.
 - Built with React, Python, OpenAI API, yfinance.
 
-### 🌦️ [Weather Prediction (AI/ML App)](https://github.com/rissingh23/spam-classifier)
+### 🌦️ [Weather Prediction (AI/ML App)](https://github.com/rissingh23/spam-weather-classifier)
 - Java-based decision tree model for weather classification and email spam filtering.
 
 ---
