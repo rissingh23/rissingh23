@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rishabh Singh!
 
-🎓 Computer Science student at the University of Washington (GPA: 3.73/4.0)  
+🎓 Computer Science student at the University of Washington  
 💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast  
 📍 Based in Redmond, WA | [GitHub](https://github.com/rissingh23) | [LinkedIn](https://www.linkedin.com/in/rishabh-singh-411496270/)
 
@@ -40,25 +40,20 @@
 
 ## 🚀 Projects
 
-### 🧠 Neuro-Care (Startup – iOS App)
-- Developed an iOS app for dementia patients featuring cognitive exercises.
-- Built using **React Native**, **FastAPI**, **SQL**, and **Supabase**.
-- Currently integrating an AI model to adapt questions based on user performance.
-- Outreaching to hospitals via UW AI-Healthcare initiatives for clinical trials.
+### 🧠 [Neuro-Care (Startup – iOS App)]
+- Developed an iOS app for dementia patients with adaptive cognitive exercises.
+- Built with React Native, FastAPI, SQL, Supabase.
 
-### 📍 UW Campus Paths (Full-Stack Web App)
-- Designed a campus navigation tool with **real-time scheduling** and **friend locator** features.
-- Built with **React**, **TypeScript**, **HTML/CSS**.
-- Implemented **Dijkstra’s Algorithm** for shortest path computation between class locations.
+### 📍 [UW Campus Paths (Full-Stack Web App)](https://github.com/rissingh23/uw-campus-paths)
+- Real-time campus navigation and friend locator web app.
+- Built with React, TypeScript; Dijkstra’s algorithm for shortest paths.
 
-### 📈 Stock Analysis Assistant (Full-Stack Web App)
-- Created an AI-powered assistant to analyze and visualize 12+ years of stock data.
-- Built with **React**, **TypeScript**, and **Python**; integrated **OpenAI API** and **yfinance**.
-- Used **pandas**, **Matplotlib**, and **BeautifulSoup** for financial trend analysis.
+### 📈 [Stock Analysis Assistant (Full-Stack Web App)](https://github.com/rissingh23/AI-Financial-Assistant)
+- AI-powered assistant for stock data insights.
+- Built with React, Python, OpenAI API, yfinance.
 
-### 🌦️ Weather Prediction (AI/ML App)
-- Developed a **Decision Tree Model** for real-world weather classification and spam email detection.
-- Implemented in **Java**, with preprocessing and model tuning.
+### 🌦️ [Weather Prediction (AI/ML App)](https://github.com/rissingh23/spam-classifier)
+- Java-based decision tree model for weather classification and email spam filtering.
 
 ---
 
