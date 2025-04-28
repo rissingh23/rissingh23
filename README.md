@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rishabh Singh!
+# Hi there, I'm Rishabh Singh!
 
 🎓 Computer Science student at the University of Washington  
 💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast  
