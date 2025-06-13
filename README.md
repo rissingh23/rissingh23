@@ -63,18 +63,24 @@
 
 ## 🏢 Work Experience
 
-### 🔬 NeuroAI UW Lab (02/2025 – Present) – Undergraduate Research Assistant
-- Built and evaluated multimodal deep learning models for neuroscience datasets using **PyTorch**.
-- Analyzed 50+ GB of data; optimized neural networks to improve model accuracy.
+### ⚡ PowerDime (06/2025 – Present) – Software Engineer Intern
+- Built and scaled AI-driven energy-investment features in **Next.js**, **Node.js**, and **TypeScript**, leveraging SSR/ISR for high-performance, scalable API routes.  
+- Integrated smart-contract-powered green digital securities workflows with **ethers.js**/**web3.js**, automating on-chain investment processes.  
+- Authored **Jest** tests, led peer code reviews, and maintained CI/CD pipelines to uphold code quality and ensure reliable deployments.  
+
+### 📱 Mobile Intelligence Lab (UW CSE) (05/2025 – Present) – Undergraduate Researcher
+- Co-developed a proactive AI assistant to infer and assist vocal conversations, partnering with graduate researchers to refine datasets and model architectures.  
+- Employed **PyTorch**, **Transformers**, and prompt-engineering on **Claude** to generate and label sample data, boosting model accuracy by **10%**.  
+
+### 🔬 NeuroAI Lab (UW ECE) (02/2025 – Present) – Undergraduate Research Assistant
+- Developed reinforcement-learning modules for spatial-reasoning LLMs using **PyTorch** and **C++**, collaborating with PhD researchers to enhance model adaptability.  
+- Analyzed over **50 GB** of neuroscience data, optimizing prompt engineering, data pipelines, and performance benchmarks to improve model accuracy.  
 
 ### 🛠️ EPAM Systems (06/2023 – 09/2023) – Software Engineer Intern
-- Developed a secure internal admin dashboard using **Java**, **JavaScript**, and **HTML**.
-- Refactored backend logic and optimized SQL queries to improve report generation by **20%**.
-- Conducted peer reviews and improved production bug resolution speed by **25%**.
+- Developed a secure internal admin dashboard for 3+ teams using **Java**, **JavaScript**, **HTML**, and **Spring Boot**.  
+- Refactored backend logic and optimized SQL queries, reducing report generation time by **20%**.  
+- Conducted peer code reviews and end-to-end testing with logging/debug hooks, improving bug resolution speed by **25%**.  
 
-### 🌟 Husky Coding Project – Contributor (HCP Club @ University of Washington)
-- Built a full-stack event calendar web app for UW RSOs using **React**, **Express**, **MongoDB**.
-- Added event filtering and a chatbot, increasing event visibility across 20+ campus groups.
 
 ---
 
@@ -88,6 +94,15 @@
 **Certifications**  
 - AI and Data Science by IBM (Expected September 2024)  
 - Python Programming and Data Science by IBM (Expected December 2024)
+
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img alt="Rishabh’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rissingh23&show_icons=true&theme=radical" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rissingh23&layout=compact&theme=radical" />
+</p>
 
 ---
 
