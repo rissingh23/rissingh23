@@ -44,6 +44,10 @@
 - Developed an iOS app for dementia patients with adaptive cognitive exercises.
 - Built with React Native, FastAPI, SQL, Supabase.
 
+### 🗓️ [CalenDub (Full-Stack Web App)](https://github.com/hcp-uw/calendub)
+- Calendar app containing events from UW RSOs, with a social media aspect.
+- Built with React, Javascript/Typescript, Express.js, Firebase and MongoDB.
+
 ### 📍 [UW Campus Paths (Full-Stack Web App)](https://github.com/rissingh23/uw-campus-pathfinder-friend-locator)
 - Real-time campus navigation and friend locator web app.
 - Built with React, TypeScript; Dijkstra’s algorithm for shortest paths.
