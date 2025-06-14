@@ -62,11 +62,7 @@
 ---
 
 ## 🏢 Work Experience
-
-### ⚡ PowerDime (06/2025 – Present) – Software Engineer Intern
-- Built and scaled AI-driven energy-investment features in **Next.js**, **Node.js**, and **TypeScript**, leveraging SSR/ISR for high-performance, scalable API routes.  
-- Integrated smart-contract-powered green digital securities workflows with **ethers.js**/**web3.js**, automating on-chain investment processes.  
-- Authored **Jest** tests, led peer code reviews, and maintained CI/CD pipelines to uphold code quality and ensure reliable deployments.  
+ 
 
 ### 📱 Mobile Intelligence Lab (UW CSE) (05/2025 – Present) – Undergraduate Researcher
 - Co-developed a proactive AI assistant to infer and assist vocal conversations, partnering with graduate researchers to refine datasets and model architectures.  
