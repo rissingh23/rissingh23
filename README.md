@@ -1,4 +1,4 @@
-# Hi, I'm Rishabh Singh  
+### Github Portfolio :
 
 🎓 CS @ University of Washington  
 💻 Full-Stack Developer | AI/ML Enthusiast  
@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🗓️ [UW RSO Social Media Calendar](https://calendub-app.vercel.app)  
+### 🗓️ [UW RSO Social Media Calendar](https://calendub-app.vercel.app) 
 MERN-stack platform for **60+ UW student orgs** to share events.  
 - Built event discovery with JWT auth, CRUD, filters, and profiles.  
 - Increased discovery rate in testing: **100/100 students** found new clubs.  
