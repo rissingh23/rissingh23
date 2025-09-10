@@ -11,13 +11,15 @@
 ## 🚀 Featured Projects  
 
 ### 🗓️ [UW RSO Social Media Calendar](https://calendub-app.vercel.app) 
+Github : https://github.com/rissingh23/calendub-app
 MERN-stack platform for **60+ UW student orgs** to share events.  
 - Built event discovery with JWT auth, CRUD, filters, and profiles.  
 - Increased discovery rate in testing: **100/100 students** found new clubs.  
 
 ---
 
-### 🧩 [LeetCode Learning Extension](https://youtu.be/YhLaJVf3ZGQ) *(2nd Place – OSS4AI Hackathon)*  
+### 🧩 [LeetCode Learning Extension](https://youtu.be/YhLaJVf3ZGQ) *(2nd Place – OSS4AI Hackathon)* 
+Github : https://github.com/rissingh23/SensAI
 Chrome extension that balances **AI hints with real learning**.  
 - Automated evaluation system with LLMs + synthetic datasets.  
 - Boosted problem-solving performance by **15%** with 60+ signups.  
@@ -25,6 +27,7 @@ Chrome extension that balances **AI hints with real learning**.
 ---
 
 ### 🐟 [Fish Species Detection/Info App](https://www.veed.io/view/bf5bec65-5087-4d32-acf8-2edd4e1cbaa6)  
+Github : https://github.com/rissingh23/fish-species-detection-cnn
 TensorFlow + React app for real-time classification.  
 - Trained on **20,000 images**, achieving **99% accuracy** across 20 species.  
 - Integrated fact generator (Gemini API) for instant context.  
