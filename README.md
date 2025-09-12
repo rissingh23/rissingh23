@@ -11,7 +11,7 @@
 ## 🚀 Featured Projects  
 
 ### 🗓️ [UW RSO Social Media Calendar](https://calendub-app.vercel.app) 
-Github : https://github.com/rissingh23/calendub-app
+Github : https://github.com/rissingh23/Calendub-Web
 MERN-stack platform for **60+ UW student orgs** to share events.  
 - Built event discovery with JWT auth, CRUD, filters, and profiles.  
 - Increased discovery rate in testing: **100/100 students** found new clubs.  
