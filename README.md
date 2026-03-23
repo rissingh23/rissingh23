@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects
 
 ### ⚡ [Low-Latency Limit Order Book Simulator](https://low-latency-order-book-sim.vercel.app)
-Github: https://github.com/rissingh23
+Github: https://github.com/rissingh23/low-latency-order-book-sim
 High-performance C++ matching engine built for low-latency trading system simulation.  
 - Built a price-time priority engine for market and limit orders achieving **1M+ orders/sec** throughput.  
 - Designed cache-aware data structures, multithreading, and lock-free queues to reduce latency by **35%**.  
