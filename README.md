@@ -1,112 +1,121 @@
-### Github Portfolio
+<div align="center">
 
-🎓 Computer Science @ University of Washington  
-💻 Software Engineer | Quant Developer | AI/ML Engineer  
-📍 Seattle, WA  
-🔎 Looking for Summer 2027 and Fall 2026 internships in Software Engineering and Quant Developer roles  
+# Rishabh Singh
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+Infra+%7C+LLMs+%7C+Low-Level+Systems;Incoming+SWE+%40+AWS+EC2;ACL+2026+%7C+UW+Paul+G.+Allen+School)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rscsportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh-411496270/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rissingh23)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rissingh23)
 
----
+Seeking Fall 2026 / Summer 2027 internships in SWE, AI Infra, and ML Engineering.
 
-## 🚀 Featured Projects
-
-### ⚡ [Low-Latency Limit Order Book Simulator](https://low-latency-order-book-sim.vercel.app)
-Github: https://github.com/rissingh23/low-latency-order-book-sim
-High-performance C++ matching engine built for low-latency trading system simulation.  
-- Built a price-time priority engine for market and limit orders achieving **1M+ orders/sec** throughput.  
-- Designed cache-aware data structures, multithreading, and lock-free queues to reduce latency by **35%**.  
-- Profiled performance with `perf` and CPU flame graphs, measuring p50/p99 latency under burst traffic.  
+</div>
 
 ---
 
-### 🗓️ [Calendub - UW Club Discovery Calendar](https://calendub-app.vercel.app)
-Github: https://github.com/rissingh23/Calendub-Web  
-Club discovery and event platform for UW students and organizations.  
-- Built scalable club profiles, event filters, and discovery workflows using Python, MongoDB, Firebase, and OpenAI.  
-- Presented to **500+ students** and supported **30+ UW clubs**.  
-- Increased event discovery for **100%** of study participants through AI-powered recommendations.  
+## Research
+
+### Reading Between the Lines: The One-Sided Conversation Problem
+*ACL 2026 — 2nd Author*  
+[Paper](https://arxiv.org/abs/your-link) · [Allen School ML Lab](https://allenschool.uw.edu)
+
+Formalized the one-sided conversation (1SC) problem: inferring missing dialogue when only one speaker is recorded. Built an NLP pipeline for dialogue infilling and summarization from partial transcripts, fine-tuning LLMs with PyTorch and deploying inference via Flask into a real-time in-ear AI device. Evaluated with LLM-as-a-Judge and human A/B testing across MultiWOZ, DailyDialog, and Candor.
 
 ---
 
-### 🧩 [LeetCode Learning Extension](https://youtu.be/YhLaJVf3ZGQ) *(2nd Place – OSS4AI Hackathon)*
-Github: https://github.com/rissingh23/SensAI  
-Chrome extension designed to balance AI assistance with real problem-solving growth.  
-- Built automated evaluation workflows using LLMs and synthetic datasets.  
-- Improved problem-solving performance by **15%** with **60+ signups**.  
-- Focused on making coding help more educational instead of purely answer-driven.  
+## Featured Projects
+
+### Low-Latency Limit Order Book Simulator
+[Live](https://low-latency-order-book-sim.vercel.app) · [GitHub](https://github.com/rissingh23/low-latency-order-book-sim)
+
+High-performance C++ matching engine built for low-latency trading simulation.
+- Price-time priority engine handling 1M+ orders/sec throughput
+- Lock-free queues and cache-aware data structures reducing latency by 35%
+- Profiled with `perf` and CPU flame graphs, measuring p50/p99 under burst traffic
 
 ---
 
-### 🐟 [Fish Species Detection/Info App](https://www.veed.io/view/bf5bec65-5087-4d32-acf8-2edd4e1cbaa6)
-Github: https://github.com/rissingh23/fish-species-detection-cnn  
-TensorFlow + React application for image-based fish classification and species information.  
-- Trained on **20,000 images**, achieving **99% accuracy** across 20 species.  
-- Integrated Gemini API to generate instant facts and species context.  
-- Combined computer vision with a clean interactive frontend for real-time use.  
+### FocusLoop — VR/AR Focus Adaptation App
+*2nd Place, NeuroHackathon*  
+[GitHub](https://github.com/rissingh23/focusloop)
+
+Real-time EEG and eye-tracking app that adapts your environment to help you focus.
+- Built with Unity and C# using live EEG sensor data and Eye-tracking API
+- Dynamically adjusts background environment based on detected focus state
 
 ---
 
-## 📂 More Projects
+### LeetCode Learning Extension — SensAI
+*2nd Place, OSS4AI Hackathon*  
+[Demo](https://youtu.be/YhLaJVf3ZGQ) · [GitHub](https://github.com/rissingh23/SensAI)
 
-### 📍 [UW Campus Paths](https://github.com/rissingh23/UW-Campus-Pathfinder-Friend-Locator)
-Real-time campus navigation and friend locator for UW students.  
-- Built with React and TypeScript.  
-- Implemented Dijkstra’s algorithm for shortest path routing.  
-- Designed to make navigation faster and more social across campus.  
-
----
-
-### 📈 [Stock Analysis Assistant](https://github.com/rissingh23/AI-Financial-Assistant-Visual-Text)
-AI-powered assistant for financial analysis and market insights.  
-- Built with React, Python, OpenAI API, and yfinance.  
-- Provides real-time visual and text-based stock analysis.  
-- Combines LLM workflows with finance-focused user interaction.  
+Chrome extension balancing AI assistance with real problem-solving growth.
+- Automated evaluation workflows using LLMs and synthetic datasets
+- Improved problem-solving performance by 15% across 60+ signups
 
 ---
 
-### 🧠 [Neuro-Care](https://github.com/rissingh23/neuro-care-cognitive-exercise-for-dementia-patients)
-Mobile app for dementia patients with adaptive cognitive exercises.  
-- Built using React Native, Expo, FastAPI, Python, and SQL.  
-- Focused on accessible, engaging, and clinically relevant cognitive support.  
-- Designed around personalized exercise delivery and usability.  
+### Calendub — UW Club Discovery Platform
+[Live](https://calendub-app.vercel.app) · [GitHub](https://github.com/rissingh23/Calendub-Web)
+
+Club discovery and event platform for UW students.
+- AI-powered recommendations using Python, MongoDB, Firebase, and OpenAI
+- Presented to 500+ students; supported 30+ UW clubs
 
 ---
 
-### 🌦️ [Weather Prediction & Spam Filter](https://github.com/rissingh23/Spam-Weather-Classifier)
-Decision tree classifier for prediction and classification tasks.  
-- Built models for weather prediction and spam detection.  
-- Applied machine learning concepts to structured classification problems.  
-- Explored interpretable ML with practical end-to-end evaluation.  
+<details>
+<summary>More Projects</summary>
+<br>
+
+**[UW Campus Pathfinder](https://github.com/rissingh23/UW-Campus-Pathfinder-Friend-Locator)**  
+Dijkstra-based campus navigation and friend locator — React + TypeScript
+
+**[Stock Analysis Assistant](https://github.com/rissingh23/AI-Financial-Assistant-Visual-Text)**  
+LLM + yfinance financial analysis tool — React, Python, OpenAI API
+
+**[Neuro-Care](https://github.com/rissingh23/neuro-care-cognitive-exercise-for-dementia-patients)**  
+Adaptive cognitive exercises for dementia patients — React Native, FastAPI, Python, SQL
+
+**[Fish Species Detection](https://github.com/rissingh23/fish-species-detection-cnn)**  
+Image-based fish classifier trained on 20K images — TensorFlow, React, Gemini API
+
+**[Weather & Spam Classifier](https://github.com/rissingh23/Spam-Weather-Classifier)**  
+Decision tree classifiers for weather prediction and spam detection
+
+**[Keploy Open Source](https://github.com/rissingh23/keploy)**  
+Contributions to API testing and mocking infrastructure — Go, Docker, Kubernetes
+
+</details>
 
 ---
 
-### 🔧 [Keploy Open Source Contributions](https://github.com/rissingh23/keploy)
-Open source contributions to API testing and mocking infrastructure.  
-- Worked in Go with Docker and Kubernetes tooling.  
-- Contributed to developer infrastructure and testing workflows.  
-- Gained experience with production-oriented open source collaboration.  
+## Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-**Languages:** C++, C, Python, Java, JavaScript, C#, SQL, NoSQL  
-**Frameworks/Libraries:** React, Node.js, Flask, FastAPI, Django, PyTorch, Pandas, NumPy, Firebase  
-**Tools/Platforms:** Linux, Docker, Kubernetes, AWS, Azure, MongoDB, PostgreSQL, GraphQL, GitHub Actions  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rissingh23&show_icons=true&theme=radical&hide_border=true)](https://github.com/rissingh23)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=rissingh23&theme=radical&hide_border=true)](https://github.com/rissingh23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissingh23&layout=compact&theme=radical&hide_border=true)](https://github.com/rissingh23)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Rishabh’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rissingh23&show_icons=true&theme=radical" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rissingh23&layout=compact&theme=radical" />
-</p>
-
----
-
-✨ Always building across systems, AI, and high-impact software.  
-Check out more on my [portfolio](https://rscsportfolio.vercel.app) and [GitHub](https://github.com/rissingh23).
+</div>
+  
