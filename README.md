@@ -18,7 +18,7 @@ Seeking Fall 2026 / Summer 2027 internships in SWE, AI Infra, and ML Engineering
 
 ### Reading Between the Lines: The One-Sided Conversation Problem
 *ACL 2026 — 2nd Author*  
-[Paper](https://arxiv.org/abs/your-link) · [Allen School ML Lab](https://allenschool.uw.edu)
+[Paper](https://arxiv.org/abs/2511.03056) · [Allen School ML Lab](https://www.cs.washington.edu)
 
 Formalized the one-sided conversation (1SC) problem: inferring missing dialogue when only one speaker is recorded. Built an NLP pipeline for dialogue infilling and summarization from partial transcripts, fine-tuning LLMs with PyTorch and deploying inference via Flask into a real-time in-ear AI device. Evaluated with LLM-as-a-Judge and human A/B testing across MultiWOZ, DailyDialog, and Candor.
 
@@ -36,13 +36,24 @@ High-performance C++ matching engine built for low-latency trading simulation.
 
 ---
 
-### FocusLoop — VR/AR Focus Adaptation App
-*2nd Place, NeuroHackathon*  
-[GitHub](https://github.com/rissingh23/focusloop)
+### FocusLoop — Real-Time EEG + Eye-Tracking Neurofeedback
+*1st Place (EEG Track), NeuroHackathon*  
+[GitHub](https://github.com/rissingh23/FocusLoop)
 
-Real-time EEG and eye-tracking app that adapts your environment to help you focus.
-- Built with Unity and C# using live EEG sensor data and Eye-tracking API
-- Dynamically adjusts background environment based on detected focus state
+Closed-loop attention-training platform fusing EEG and eye-tracking to adapt a Unity environment in real time.
+- Combined Muse 2 EEG (β / θ+α focus index) and Tobii gaze dispersion into a single attention state at 10 Hz
+- Built Python signal pipeline with MNE, BrainFlow, and ZeroMQ; Unity OSC listener adjusts lighting and distractors
+- Dual-sensor fusion halved calibration time vs. single-signal neurofeedback systems
+
+---
+
+### AppetizeAI — Social Dining Finder
+[GitHub](https://github.com/rissingh23/AppetizeAI)
+
+Full-stack social dining platform using Flask microservices, AWS Bedrock, and Yelp APIs.
+- Developed REST APIs integrating AWS Bedrock to generate ranked restaurant recommendations with 92% user satisfaction
+- Reduced response latency by 35% through Redis caching and optimized PostgreSQL query execution
+- Served 25+ users across Flask microservices backed by Node.js and Redis
 
 ---
 
@@ -57,10 +68,10 @@ Chrome extension balancing AI assistance with real problem-solving growth.
 ---
 
 ### Calendub — UW Club Discovery Platform
-[Live](https://calendub-app.vercel.app) · [GitHub](https://github.com/rissingh23/Calendub-Web)
+[Live](https://calendub-app.vercel.app) · [GitHub](https://github.com/rissingh23/CalenDUB-Web)
 
-Club discovery and event platform for UW students.
-- AI-powered recommendations using Python, MongoDB, Firebase, and OpenAI
+Full-stack club discovery and event platform for UW students.
+- AI-powered recommendations using Python, MongoDB, Firebase, and OpenAI; improved query performance by 40%
 - Presented to 500+ students; supported 30+ UW clubs
 
 ---
@@ -78,7 +89,7 @@ LLM + yfinance financial analysis tool — React, Python, OpenAI API
 **[Neuro-Care](https://github.com/rissingh23/neuro-care-cognitive-exercise-for-dementia-patients)**  
 Adaptive cognitive exercises for dementia patients — React Native, FastAPI, Python, SQL
 
-**[Fish Species Detection](https://github.com/rissingh23/fish-species-detection-cnn)**  
+**[Fish Species Detection](https://github.com/rissingh23/Fish-Species-Detection-CNN)**  
 Image-based fish classifier trained on 20K images — TensorFlow, React, Gemini API
 
 **[Weather & Spam Classifier](https://github.com/rissingh23/Spam-Weather-Classifier)**  
@@ -113,9 +124,7 @@ Contributions to API testing and mocking infrastructure — Go, Docker, Kubernet
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rissingh23&show_icons=true&theme=radical&hide_border=true)](https://github.com/rissingh23)
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=rissingh23&theme=radical&hide_border=true)](https://github.com/rissingh23)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissingh23&layout=compact&theme=radical&hide_border=true)](https://github.com/rissingh23)
 
 </div>
   
