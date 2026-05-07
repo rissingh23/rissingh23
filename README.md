@@ -34,10 +34,11 @@ Formalized the one-sided conversation (1SC) problem: inferring missing dialogue 
 Full-stack club discovery and event platform for UW students.
 - AI-powered recommendations using Python, MongoDB, Firebase, and OpenAI; improved query performance by 40%
 - Presented to 500+ students; supported 30+ UW clubs
-### Low-Latency Limit Order Book Simulator and ML Inference Engine
-[Live](https://low-latency-order-book-sim.vercel.app) · [GitHub](https://github.com/rissingh23/low-latency-order-book-sim)
 
 ---
+
+### Low-Latency Limit Order Book Simulator and ML Inference Engine
+[Live](https://low-latency-order-book-sim.vercel.app) · [GitHub](https://github.com/rissingh23/low-latency-order-book-sim)
 
 High-performance C++ matching engine built for low-latency trading simulation.
 - Price-time priority engine handling 1M+ orders/sec throughput
