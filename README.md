@@ -37,6 +37,14 @@ Full-stack club discovery and event platform for UW students.
 
 ---
 
+### ML-Based OS Task Scheduling Simulator
+[Live](https://tasksim-lab.onrender.com) · [Github](https://github.com/rissingh23/ml-os-task-scheduling-simulator)
+- Built a multithreaded C++ OS scheduler simulator supporting FIFO, MLFQ, and ML-based scheduling with analysis
+- Achieved 68\% runtime-prediction accuracy by training XGBoost and DNNs on Google / Alibaba cluster traces.
+- Reduced deadline-miss rate by \textbf{13\%} by using ML-guided scheduling to optimize processes over heuristic baselines.
+
+---
+
 ### Low-Latency Limit Order Book Simulator and ML Inference Engine
 [Live](https://low-latency-order-book-sim.vercel.app) · [GitHub](https://github.com/rissingh23/low-latency-order-book-sim)
 
